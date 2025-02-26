@@ -68,7 +68,7 @@ const TaskCard = ({
                 </div>
             </div>
             <div className="footer p-3 flex items-center justify-between">
-                <p className="font-light text-xs block text-black">{`Puskar Roy`}</p>
+                <p className="font-light text-xs block text-black">{`Task`}</p>
                 <button
                     onClick={handleToggleCompleted}
                     type="button"
